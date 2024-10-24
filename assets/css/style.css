@@ -1,7 +1,11 @@
 #listado-prendas img{
-    height: 200px;
+    height: 175px;
 }
 
 button.cantidad {
     width: 50px;
+}
+
+.separador {
+    border-bottom: 1px solid #CCC;
 }
